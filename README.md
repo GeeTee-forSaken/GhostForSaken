@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeeTee-forSaken
 - 👀 I’m interested in games (Minecraft, Hoyoverse's games), 
-- 🌱 I’m currently learning C, Python, and Frontend Programming Languages
+- 🌱 I’m currently learning mcfunction
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
