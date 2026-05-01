@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GhostForSaken
+- 👋 Hi, I’m @GeeTee-forSaken
 - 👀 I’m interested in games (Minecraft, Hoyoverse's games), 
 - 🌱 I’m currently learning C, Python, and Frontend Programming Languages
 - 💞️ I’m looking to collaborate on ...
